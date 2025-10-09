@@ -22,14 +22,14 @@
 
 <p style="font-style: italic; color: #C9D1D9;">
 
-Prazer, me chamo <strong style="color: #00FF88;">Kauê Alciati Andrade</strong>.  
-Sou estudante de <strong style="color: #00FF88;">Análise e Desenvolvimento de Sistemas</strong> na <strong style="color: #00FF88;">FATEC - Faculdade de Tecnologia de São Paulo</strong>, atualmente em fase de formação.  
-Tenho interesse e experiência em <strong style="color: #00FF88;">desenvolvimento web</strong>, atuando tanto no <strong style="color: #00FF88;">front-end</strong> quanto no <strong style="color: #00FF88;">back-end</strong>, sempre buscando aprimorar meus conhecimentos e aplicar boas práticas de programação.  
+Prazer, me chamo **🟩 Kauê Alciati Andrade**.  
+Sou estudante de **🟩 Análise e Desenvolvimento de Sistemas** na **🟩 FATEC – Faculdade de Tecnologia de São Paulo**, atualmente em fase de formação.  
+Tenho interesse e experiência em **🟩 desenvolvimento web**, atuando tanto no **🟩 front-end** quanto no **🟩 back-end**, sempre buscando aprimorar meus conhecimentos e aplicar boas práticas de programação.  
 
 Sou uma pessoa dedicada, responsável e com facilidade para aprender novas tecnologias e metodologias.  
-Meu objetivo é atuar na área de <strong style="color: #00FF88;">desenvolvimento de software</strong>, contribuindo para soluções inovadoras e eficientes que gerem valor para empresas e usuários.  
+Meu objetivo é atuar na área de **🟩 desenvolvimento de software**, contribuindo para soluções inovadoras e eficientes que gerem valor para empresas e usuários.  
 
-<em style="color: #00FF88;">Aberto a oportunidades para estágio e projetos de desenvolvimento web.</em>
+_Aberto a oportunidades para estágio e projetos de desenvolvimento web._
 
 </p>
 
@@ -98,8 +98,8 @@ Meu objetivo é atuar na área de <strong style="color: #00FF88;">desenvolviment
       alt="Estatísticas do GitHub"
     />
   </a>
----
 
+  
 ---
 
 ## 🐍 Obrigado por visitar meu perfil no GitHub!
@@ -119,3 +119,4 @@ Continue acompanhando meus projetos e contribuições.
 </p>
 
 </div>
+
