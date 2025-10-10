@@ -94,7 +94,7 @@ Meu objetivo é atuar na área de <strong style="color: #00FF88;">desenvolviment
   <a href="https://github.com/KaueAlciati">
     <img 
       height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueAlciati&layout=compact&langs_count=6&hide_border=false&border_radius=12&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueAlciati&layout=compact&t=1"
       alt="Linguagens mais usadas"
     />
   </a>
@@ -127,6 +127,7 @@ Continue acompanhando meus projetos e contribuições.
 </p>
 
 </div>
+
 
 
 
